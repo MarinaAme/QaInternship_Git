@@ -1,3 +1,4 @@
 Марина Амелина
 added config file
 Updated main config!
+new feature 1
