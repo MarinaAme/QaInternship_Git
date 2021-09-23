@@ -1,2 +1,5 @@
 Марина Амелина
 added config file
+Updated main config!
+new feature 1
+new feature 2
